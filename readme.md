@@ -40,11 +40,11 @@ Te dejo unas imágenes en la carpeta `images` sobre las que  tendrás que aplica
 
 1. Selecciona una imagen y aplica, a través de pseudo-selectores como `hover`, `click` o `focus` las siguientes transiciones.
 
-  1.1 Con desplazamiento vertical, coloca las gafas.
+    1.1 Con desplazamiento vertical, coloca las gafas.
 
-  1.2 Con desplazamiento horizontal, colora el cartel.
+    1.2 Con desplazamiento horizontal, colora el cartel.
 
-  1.3 Con desplazamiento vertical, pero en sentido contrario a las gafas, coloca el canuto.
+    1.3 Con desplazamiento vertical, pero en sentido contrario a las gafas, coloca el canuto.
 
 2. Aplica rotación a las gafas.
 
@@ -54,11 +54,11 @@ _Premium_: Lleva la imagen a escala de grises.
 
 1. Selecciona una imagen y aplica las siguientes animaciones.
 
-  1.1 Con desplazamiento vertical, coloca las gafas.
+    1.1 Con desplazamiento vertical, coloca las gafas.
 
-  1.2 Con desplazamiento horizontal, colora el cartel.
+    1.2 Con desplazamiento horizontal, colora el cartel.
 
-  1.3 Con desplazamiento vertical, pero en sentido contrario a las gafas, coloca el canuto.
+    1.3 Con desplazamiento vertical, pero en sentido contrario a las gafas, coloca el canuto.
 
 2. Aplica rotación a las gafas.
 
